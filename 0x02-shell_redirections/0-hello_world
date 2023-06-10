@@ -1,1 +1,2 @@
-echo 'Hello, Word'
+#!/bin/bash
+echo 'Hello, Word' > 0-hello_world
